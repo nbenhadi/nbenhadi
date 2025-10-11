@@ -14,6 +14,7 @@ Hello everyone! I'm **Nourddin Benhadi**. I love delving into the realm of desig
 ![c](https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white)
 ![c++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&style=for-the-badge&logoColor=white)
 ![c#](https://img.shields.io/badge/-C%23-239120?logo=C%20Sharp&style=for-the-badge&logoColor=white)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![tailwindcss](https://img.shields.io/badge/-TAILWIND%20CSS-38B2AC?logo=Tailwind%20CSS&style=for-the-badge&logoColor=white)
 ![astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge)
