@@ -25,5 +25,5 @@ Hello everyone! I'm **Nourddin Benhadi**. I love delving into the realm of desig
 <br>
 
 ```
-nxrddinbenhadi@gmail.com
+hello@nbenhadi.com
 ```
