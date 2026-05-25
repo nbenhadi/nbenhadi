@@ -1,4 +1,4 @@
-<h1 align="left"><a href="https://nbenhadi.com">Nourddin</a> Creates Without Limits 🥀</h1>
+<h1 align="left"><a href="https://nbenhadi.com">Nourddin</a> creates without limits 🥀</h1>
 
 <div align="center">
   <img src="nxrddinbnh-header.gif" alt="Nixius">
