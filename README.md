@@ -1,10 +1,11 @@
-<h1 align="left">Welcome to <a href="https://linktr.ee/nxrddinbnh">nxrddin</a>'s World! 🥀</h1>
+<h1 align="left"><a href="https://nbenhadi.com">Nourddin</a> Creates Without Limits 🥀</h1>
 
 <div align="center">
   <img src="nxrddinbnh-header.gif" alt="Nixius">
 </div>
 
 ## About Me
+
 Hello everyone! I'm **Nourddin Benhadi**. I love delving into the realm of design and coding, where I can unleash my creativity and turn ideas into reality. Whether it's crafting sleek user interfaces or bringing illustrations to life, I'm always eager to take on a challenge and conquer it with enthusiasm.
 
 ## Skills
